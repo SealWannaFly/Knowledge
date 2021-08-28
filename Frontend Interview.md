@@ -162,3 +162,6 @@ Links:
 - **interval(period)** создает поток чисел счетчика через период
 - **timer(dueTime)** аналогично setTimeout только с возможностью подписки
 - **range(start, numberOfElements)** создает поток из N элементов от начального
+
+Link:
+- [Владилен Минин](https://youtu.be/gCwSVQO_PtY)
